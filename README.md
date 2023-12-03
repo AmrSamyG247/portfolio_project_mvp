@@ -58,4 +58,4 @@ If you'd like to contribute to the project, follow these steps:
 -Open a pull request.
 
 ## Author
-For more detailed information, please refer to the [Amr Samy](AUTHORS).
+For more detailed information, please refer to me [Amr Samy](AUTHORS).
